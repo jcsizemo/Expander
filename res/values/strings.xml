@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Expander</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="regular_key">0sh0i4XC5lcHE4m5wt_o0gBPur4_GO5vU595X2g</string>
+    <string name="debug_key">0sh0i4XC5lcF0n82pEXLAfYNQ4MYPk0O9mXHSmA</string>
+    <string name="expander">Expander</string>
+    <string name="pickPoison">Pick your poison.</string>
+    <string name="quickEats">Quick Eats</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="instantQueue">Instant Queue</string>
+    <string name="suggestedForYou">Suggested For You</string>
+    <string name="yourColor">Your Color:</string>
+
+</resources>
